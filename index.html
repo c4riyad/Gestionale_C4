@@ -350,13 +350,15 @@ document.getElementById('search-input').addEventListener('input', function() {
   selectedIndex = -1;
   if (!DATA || q.length < 2) { box.classList.remove('show'); return; }
 
-  const matches = DATA.personnel.filter(p => p.name.toLowerCase().includes(q));
+  const normalize = s => s.toLowerCase().replace(/['']/g, "'");
+  const matches = DATA.personnel.filter(p => normalize(p.name).includes(normalize(q)));
   if (!matches.length) { box.classList.remove('show'); return; }
 
-  box.innerHTML = matches.map((p, i) => {
+  box.innerHTML = matches.map((p) => {
+    const idx = DATA.personnel.indexOf(p);
     const rank = p.name.split(' ').slice(0, -1).join(' ');
     const surname = p.name.split(' ').pop();
-    return `<div class="search-item" data-name="${p.name}" onclick="showPerson('${p.name}')">
+    return `<div class="search-item" data-idx="${idx}">
       <span class="search-rank">${rank}</span><strong>${surname}</strong>
     </div>`;
   }).join('');
@@ -372,6 +374,13 @@ document.getElementById('search-input').addEventListener('keydown', function(e) 
     return;
   } else return;
   items.forEach((it,i) => it.classList.toggle('active', i === selectedIndex));
+});
+
+document.getElementById('search-results').addEventListener('click', e => {
+  const item = e.target.closest('.search-item');
+  if (!item) return;
+  const idx = parseInt(item.dataset.idx);
+  showPerson(DATA.personnel[idx].name);
 });
 
 document.addEventListener('click', e => {
