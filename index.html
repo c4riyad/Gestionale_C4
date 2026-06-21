@@ -403,7 +403,7 @@ function showPerson(name) {
   document.getElementById('person-view').style.display = 'block';
 
   const today = new Date(); today.setHours(0,0,0,0);
-  const todayStr = today.toISOString().split('T')[0];
+  const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
 
   // Trova stato attuale e prossimo cambio
   const todayShift = person.shifts.find(s => s.date === todayStr);
