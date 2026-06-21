@@ -1,0 +1,5227 @@
+{
+  "generated": "2026-06-21 12:42",
+  "personnel": [
+    {
+      "name": "TEN. TOBIA MICHELE CAPASSO",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "KHURAIS"
+        }
+      ]
+    },
+    {
+      "name": "GRD. A. GABRIELE D'ELIA",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "KHURAIS"
+        }
+      ]
+    },
+    {
+      "name": "GRD. A. ANTONIO SPERA",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "ITALIA"
+        }
+      ]
+    },
+    {
+      "name": "1° GRD. LUCIO TROISI",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "KHURAIS"
+        }
+      ]
+    },
+    {
+      "name": "GRD. A. DOMENICO PELLEGRINO",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "KHURAIS"
+        }
+      ]
+    },
+    {
+      "name": "1° GRD. DIEGO MAZZOLA",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "HOTEL"
+        }
+      ]
+    },
+    {
+      "name": "GRD. A. ANIELLO DE FALCO",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": ""
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "HOTEL"
+        }
+      ]
+    },
+    {
+      "name": "GRD. A. ANTONIO MADEO",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "HOTEL"
+        }
+      ]
+    },
+    {
+      "name": "GRD. A. MARCELLO FALCO",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "HOTEL"
+        }
+      ]
+    },
+    {
+      "name": "GRD. A. VINCENZO CARPENTIERE",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "KHURAIS"
+        }
+      ]
+    },
+    {
+      "name": "GRD. A. GUIDO POLVERINO",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "KHURAIS"
+        }
+      ]
+    },
+    {
+      "name": "1° GRD. PASQUALE SCALINO",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "KHURAIS"
+        }
+      ]
+    },
+    {
+      "name": "GRD. CA. FRANCESCO FUSCO",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "ITALIA"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "KHURAIS"
+        }
+      ]
+    },
+    {
+      "name": "1° GRD. LUCA SCAFARTO",
+      "shifts": [
+        {
+          "date": "2026-06-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-04",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-05",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-08",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-09",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-10",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-11",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-14",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-15",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-20",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-06-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-06-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-02",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-03",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-05",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-06",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-07",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-08",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-09",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-10",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-11",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-12",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-13",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-14",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-15",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-16",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-17",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-18",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-19",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-20",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-24",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-25",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-07-28",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-29",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-07-31",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-01",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-02",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-03",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-04",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-05",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-06",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-07",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-08",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-09",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-10",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-11",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-12",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-13",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-14",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-15",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-16",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-17",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-18",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-19",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-20",
+          "pos": "LICENZA"
+        },
+        {
+          "date": "2026-08-21",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-22",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-23",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-24",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-25",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-26",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-27",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-28",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-29",
+          "pos": "KHURAIS"
+        },
+        {
+          "date": "2026-08-30",
+          "pos": "HOTEL"
+        },
+        {
+          "date": "2026-08-31",
+          "pos": "HOTEL"
+        }
+      ]
+    }
+  ]
+}
