@@ -536,6 +536,7 @@
       <span class="home-btn-label">Movimenti del giorno</span>
     </button>
   </div>
+  <button onclick="doLogout()" style="margin-top:18px;background:none;border:none;color:var(--text2);font-size:13px;cursor:pointer;padding:6px 12px;border-radius:8px;-webkit-tap-highlight-color:transparent">Esci →</button>
 </div>
 
 <!-- SEARCH -->
@@ -764,11 +765,16 @@ function showPerson(name) {
 // ── Login ──────────────────────────────────────────────────
 const AUTH = { user: 'admin', pass: 'Avellino.2026' };
 
+function doLogout() {
+  localStorage.removeItem('c4auth');
+  location.reload();
+}
+
 function doLogin() {
   const u = document.getElementById('login-user').value.trim();
   const p = document.getElementById('login-pass').value;
   if (u === AUTH.user && p === AUTH.pass) {
-    sessionStorage.setItem('c4auth', '1');
+    localStorage.setItem('c4auth', '1');
     document.getElementById('login-overlay').style.display = 'none';
   } else {
     const err = document.getElementById('login-err');
@@ -785,7 +791,7 @@ document.getElementById('login-user').addEventListener('keydown', e => {
   if (e.key === 'Enter') document.getElementById('login-pass').focus();
 });
 
-if (sessionStorage.getItem('c4auth') === '1') {
+if (localStorage.getItem('c4auth') === '1') {
   document.getElementById('login-overlay').style.display = 'none';
 }
 
