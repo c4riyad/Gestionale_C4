@@ -83,9 +83,12 @@
     position: absolute;
     left: 14px; top: 50%;
     transform: translateY(-50%);
-    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: var(--text2);
     pointer-events: none;
+    line-height: 0;
   }
   .search-results {
     background: var(--surface2);
@@ -227,6 +230,183 @@
   .ld-HOTEL   { background: var(--hotel); }
   .ld-LICENZA { background: var(--licenza); }
 
+  /* ── Home ── */
+  #home-view { min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 40px 24px; }
+  .home-hero { text-align: center; margin-bottom: 48px; }
+  .home-logo { width: 100px; height: 100px; object-fit: contain; border-radius: 20px; margin-bottom: 20px; }
+  .home-title { font-size: 32px; font-weight: 800; letter-spacing: 2px; color: var(--text); margin-bottom: 6px; }
+  .home-sub { font-size: 16px; color: var(--text2); margin-bottom: 10px; }
+  .home-updated { font-size: 11px; color: var(--text2); opacity: .6; }
+  .home-buttons { display: flex; flex-direction: column; gap: 14px; width: 100%; max-width: 440px; align-self: center; }
+  .home-btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    color: var(--text);
+    padding: 20px 24px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    text-align: left;
+    transition: background .15s, border-color .15s, transform .12s;
+    width: 100%;
+  }
+  .home-btn:hover { background: var(--surface2); border-color: var(--accent); transform: translateY(-2px); }
+  .home-btn:active { transform: translateY(0); }
+  .home-btn-icon { width: 48px; height: 48px; border-radius: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .home-btn-icon svg { width: 26px; height: 26px; }
+  .home-btn-icon.ic-search  { background: #1a3a5c; }
+  .home-btn-icon.ic-sit     { background: #1a3a1a; }
+  .home-btn-icon.ic-mov     { background: #3a2a0a; }
+  .home-btn-label { font-size: 16px; font-weight: 600; }
+
+  /* ── Sub-header (back + day nav) ── */
+  .sub-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 14px 24px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    z-index: 50;
+  }
+  .back-btn {
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text2);
+    font-size: 13px;
+    padding: 6px 14px;
+    cursor: pointer;
+    transition: background .15s;
+  }
+  .back-btn:hover { background: var(--surface2); color: var(--text); }
+  .day-nav { display: flex; align-items: center; gap: 10px; margin-left: auto; }
+  .day-nav-btn {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    font-size: 14px;
+    width: 34px; height: 34px;
+    cursor: pointer;
+    transition: background .15s;
+  }
+  .day-nav-btn:hover { background: var(--border); }
+  .day-nav-label { font-size: 14px; font-weight: 600; color: var(--text); min-width: 200px; text-align: center; }
+
+  /* ── Nav buttons ── */
+  .nav-buttons {
+    display: flex;
+    gap: 10px;
+    padding: 0 24px 20px;
+    max-width: 1100px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
+  .nav-btn {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    font-size: 13px;
+    font-weight: 600;
+    padding: 10px 18px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: background .15s, border-color .15s;
+  }
+  .nav-btn:hover { background: var(--surface); border-color: var(--accent); }
+  .nav-btn.active { border-color: var(--accent); color: var(--today); }
+
+  /* ── Situazione ── */
+  .sit-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-bottom: 32px;
+  }
+  .sit-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .sit-card-header {
+    padding: 14px 18px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: .5px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .sit-card-header.KHURAIS { background: #0d2b1a; color: var(--khurais-text); border-bottom: 1px solid var(--khurais); }
+  .sit-card-header.HOTEL   { background: #2b1500; color: var(--hotel-text);   border-bottom: 1px solid var(--hotel); }
+  .sit-card-header.LICENZA { background: #0a1a2b; color: var(--licenza-text); border-bottom: 1px solid var(--licenza); }
+  .sit-card-count { margin-left: auto; font-size: 20px; font-weight: 800; }
+  .sit-person {
+    padding: 10px 18px;
+    font-size: 13px;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    transition: background .1s;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .sit-person:last-child { border-bottom: none; }
+  .sit-person:hover { background: var(--surface2); }
+  .sit-person-days { margin-left: auto; font-size: 11px; color: var(--text2); }
+
+  /* ── Movimenti ── */
+  .mov-date-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--today);
+    margin-bottom: 14px;
+  }
+  .mov-list { display: flex; flex-direction: column; gap: 8px; margin-bottom: 32px; }
+  .mov-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 18px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    cursor: pointer;
+    transition: background .1s;
+  }
+  .mov-item:hover { background: var(--surface2); }
+  .mov-name { font-size: 14px; font-weight: 600; flex: 1; }
+  .mov-arrow { font-size: 18px; color: var(--text2); }
+  .mov-badge {
+    font-size: 11px;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 20px;
+  }
+  .mov-badge.KHURAIS { background: #0d2b1a; color: var(--khurais-text); }
+  .mov-badge.HOTEL   { background: #2b1500; color: var(--hotel-text); }
+  .mov-badge.LICENZA { background: #0a1a2b; color: var(--licenza-text); }
+  .mov-empty { text-align: center; color: var(--text2); padding: 40px 0; font-size: 14px; }
+  .mov-group-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 4px 8px;
+    margin-top: 8px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 8px;
+  }
+  .mov-group-count { margin-left: auto; font-size: 12px; color: var(--text2); }
+
   /* ── Login overlay ── */
   #login-overlay {
     position: fixed; inset: 0;
@@ -295,36 +475,99 @@
   </div>
 </div>
 
-<header>
-  <div>
-    <div class="header-logo">⚡ TASK UNIT C4</div>
-    <div class="header-sub">Portale Programmazione Turni</div>
+<!-- HOME -->
+<div id="home-view">
+  <div class="home-hero">
+    <img src="icon.png" class="home-logo" alt="Logo C4">
+    <h1 class="home-title">TASK UNIT C4</h1>
+    <p class="home-sub">Khurais — Portale Turni</p>
+    <div class="home-updated" id="last-update"></div>
   </div>
-  <div class="header-updated" id="last-update"></div>
-</header>
-
-<div class="search-wrap">
-  <div class="search-label">Cerca il tuo nominativo</div>
-  <div class="search-box">
-    <span class="search-icon">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="6.5" cy="6.5" r="5" stroke="#8b949e" stroke-width="1.5"/>
-        <line x1="10.5" y1="10.5" x2="14" y2="14" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round"/>
-      </svg>
-    </span>
-    <input type="text" id="search-input" placeholder="Es. PELLEGRINO, D'ELIA…"
-      autocomplete="off" spellcheck="false">
-    <div class="search-results" id="search-results"></div>
+  <div class="home-buttons">
+    <button class="home-btn" onclick="showView('search')">
+      <span class="home-btn-icon ic-search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#79c0ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="22" y2="22"/>
+        </svg>
+      </span>
+      <span class="home-btn-label">Cerca turni personali</span>
+    </button>
+    <button class="home-btn" onclick="showView('situazione')">
+      <span class="home-btn-icon ic-sit">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#56d364" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+          <circle cx="9" cy="7" r="4"/>
+          <path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+        </svg>
+      </span>
+      <span class="home-btn-label">Situazione odierna</span>
+    </button>
+    <button class="home-btn" onclick="showView('movimenti')">
+      <span class="home-btn-icon ic-mov">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#ffa657" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="5" y1="12" x2="19" y2="12"/>
+          <polyline points="12 5 19 12 12 19"/>
+          <line x1="5" y1="6" x2="5" y2="18"/>
+        </svg>
+      </span>
+      <span class="home-btn-label">Movimenti del giorno</span>
+    </button>
   </div>
 </div>
 
-<div id="main">
-  <div class="empty-state" id="empty-state">
-    <div class="icon">🎖️</div>
-    <h2>Cerca il tuo nominativo</h2>
-    <p>Digita il cognome per visualizzare la tua programmazione</p>
+<!-- SEARCH -->
+<div id="search-view" style="display:none">
+  <div class="sub-header">
+    <button class="back-btn" onclick="showView('home')">← Indietro</button>
   </div>
-  <div id="person-view" style="display:none"></div>
+  <div class="search-wrap">
+    <div class="search-label">Cerca il tuo nominativo</div>
+    <div class="search-box">
+      <span class="search-icon">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="6.5" cy="6.5" r="5" stroke="#8b949e" stroke-width="1.5"/>
+          <line x1="10.5" y1="10.5" x2="14" y2="14" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+      </span>
+      <input type="text" id="search-input" placeholder="Es. PELLEGRINO, D'ELIA…"
+        autocomplete="off" spellcheck="false">
+      <div class="search-results" id="search-results"></div>
+    </div>
+  </div>
+  <div id="main">
+    <div class="empty-state" id="empty-state">
+      <div class="icon">🎖️</div>
+      <h2>Cerca il tuo nominativo</h2>
+      <p>Digita il cognome per visualizzare la tua programmazione</p>
+    </div>
+    <div id="person-view" style="display:none"></div>
+  </div>
+</div>
+
+<!-- SITUAZIONE -->
+<div id="situazione-view" style="display:none">
+  <div class="sub-header">
+    <button class="back-btn" onclick="showView('home')">← Indietro</button>
+    <div class="day-nav">
+      <button class="day-nav-btn" onclick="changeDay('situazione',-1)">◀</button>
+      <span class="day-nav-label" id="sit-day-label"></span>
+      <button class="day-nav-btn" onclick="changeDay('situazione',+1)">▶</button>
+    </div>
+  </div>
+  <div id="situazione-content" style="padding:0 24px 48px"></div>
+</div>
+
+<!-- MOVIMENTI -->
+<div id="movimenti-view" style="display:none">
+  <div class="sub-header">
+    <button class="back-btn" onclick="showView('home')">← Indietro</button>
+    <div class="day-nav">
+      <button class="day-nav-btn" onclick="changeDay('movimenti',-1)">◀</button>
+      <span class="day-nav-label" id="mov-day-label"></span>
+      <button class="day-nav-btn" onclick="changeDay('movimenti',+1)">▶</button>
+    </div>
+  </div>
+  <div id="movimenti-content" style="padding:0 24px 48px"></div>
 </div>
 
 <script>
@@ -355,7 +598,7 @@ document.getElementById('search-input').addEventListener('input', function() {
   if (!DATA || q.length < 2) { box.classList.remove('show'); return; }
 
   const normalize = s => s.toLowerCase().replace(/['']/g, "'");
-  const matches = DATA.personnel.filter(p => normalize(p.name).includes(normalize(q)));
+  const matches = sortByRank(DATA.personnel.filter(p => normalize(p.name).includes(normalize(q))), p => p.name);
   if (!matches.length) { box.classList.remove('show'); return; }
 
   box.innerHTML = matches.map((p) => {
@@ -399,8 +642,11 @@ function showPerson(name) {
 
   document.getElementById('search-input').value = name;
   document.getElementById('search-results').classList.remove('show');
+  VIEWS.forEach(id => { document.getElementById(id).style.display = 'none'; });
+  document.getElementById('search-view').style.display = 'block';
   document.getElementById('empty-state').style.display = 'none';
   document.getElementById('person-view').style.display = 'block';
+  window.scrollTo(0,0);
 
   const today = new Date(); today.setHours(0,0,0,0);
   const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
@@ -521,6 +767,141 @@ if (sessionStorage.getItem('c4auth') === '1') {
 }
 
 loadData();
+
+// ── View switcher ──────────────────────────────────────────
+// ── View switcher ──────────────────────────────────────────
+const VIEWS = ['home-view','search-view','situazione-view','movimenti-view'];
+
+function showView(view) {
+  VIEWS.forEach(id => { document.getElementById(id).style.display = 'none'; });
+  document.getElementById(view + '-view').style.display = view === 'home' ? 'flex' : 'block';
+  window.scrollTo(0,0);
+  if (view === 'situazione') { _sitOffset = 0; renderSituazione(); }
+  if (view === 'movimenti')  { _movOffset = 0; renderMovimenti(); }
+  if (view === 'search') {
+    document.getElementById('empty-state').style.display = 'block';
+    document.getElementById('person-view').style.display = 'none';
+    setTimeout(() => document.getElementById('search-input').focus(), 100);
+  }
+}
+
+// ── Ordinamento per grado ──────────────────────────────────
+const RANK_ORDER = ['TEN.', '1°', 'GRD. A.', 'GRD.'];
+function rankIndex(name) {
+  const u = name.toUpperCase();
+  for (let i = 0; i < RANK_ORDER.length; i++)
+    if (u.startsWith(RANK_ORDER[i])) return i;
+  return 99;
+}
+function sortByRank(arr, getName) {
+  return [...arr].sort((a, b) => rankIndex(getName(a)) - rankIndex(getName(b)));
+}
+
+function getTodayStr(offset) {
+  const t = new Date();
+  t.setDate(t.getDate() + (offset||0));
+  return `${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,'0')}-${String(t.getDate()).padStart(2,'0')}`;
+}
+
+function dateLabel(dateStr) {
+  const DAYS   = ['Domenica','Lunedì','Martedì','Mercoledì','Giovedì','Venerdì','Sabato'];
+  const MONTHS = ['Gennaio','Febbraio','Marzo','Aprile','Maggio','Giugno','Luglio','Agosto','Settembre','Ottobre','Novembre','Dicembre'];
+  const d = new Date(dateStr);
+  return `${DAYS[d.getDay()]} ${d.getDate()} ${MONTHS[d.getMonth()]} ${d.getFullYear()}`;
+}
+
+let _movOffset = 0;
+let _sitOffset = 0;
+
+function changeDay(view, delta) {
+  if (view === 'movimenti') { _movOffset += delta; renderMovimenti(); }
+  if (view === 'situazione') { _sitOffset += delta; renderSituazione(); }
+}
+
+// ── Movimenti del giorno ───────────────────────────────────
+function renderMovimenti() {
+  if (!DATA) return;
+  const dateStr = getTodayStr(_movOffset);
+  const prev = getTodayStr(_movOffset - 1);
+  document.getElementById('mov-day-label').textContent = dateLabel(dateStr);
+
+  const movimenti = [];
+  for (const p of DATA.personnel) {
+    const ieri = p.shifts.find(s => s.date === prev);
+    const oggi = p.shifts.find(s => s.date === dateStr);
+    if (ieri && oggi && ieri.pos !== oggi.pos)
+      movimenti.push({ name: p.name, da: ieri.pos, a: oggi.pos });
+  }
+
+  let html = '';
+  if (!movimenti.length) {
+    html = `<div class="mov-empty">Nessun movimento previsto</div>`;
+  } else {
+    // Raggruppa per categoria (DA → A)
+    const groups = {};
+    for (const m of movimenti) {
+      const key = `${m.da}→${m.a}`;
+      if (!groups[key]) groups[key] = { da: m.da, a: m.a, people: [] };
+      groups[key].people.push(m);
+    }
+    for (const [key, g] of Object.entries(groups)) {
+      html += `<div class="mov-group-header">
+        <span class="mov-badge ${g.da}">${g.da}</span>
+        <span class="mov-arrow">→</span>
+        <span class="mov-badge ${g.a}">${g.a}</span>
+        <span class="mov-group-count">${g.people.length} pers.</span>
+      </div>`;
+      html += `<div class="mov-list">`;
+      for (const m of sortByRank(g.people, m => m.name)) {
+        const idx = DATA.personnel.findIndex(p => p.name === m.name);
+        html += `<div class="mov-item" onclick="showPerson(DATA.personnel[${idx}].name)">
+          <div class="mov-name">${m.name}</div>
+        </div>`;
+      }
+      html += `</div>`;
+    }
+  }
+  document.getElementById('movimenti-content').innerHTML = html;
+}
+
+// ── Situazione ─────────────────────────────────────────────
+function renderSituazione() {
+  if (!DATA) return;
+  const dateStr = getTodayStr(_sitOffset);
+  document.getElementById('sit-day-label').textContent = dateLabel(dateStr);
+
+  const groups = { KHURAIS: [], HOTEL: [], LICENZA: [] };
+  for (const p of DATA.personnel) {
+    const shift = p.shifts.find(s => s.date === dateStr);
+    const pos = shift?.pos;
+    if (!groups[pos]) continue;
+    let days = 0;
+    for (const s of p.shifts) {
+      if (s.date < dateStr) continue;
+      if (s.pos === pos) days++; else break;
+    }
+    groups[pos].push({ name: p.name, days, idx: DATA.personnel.indexOf(p) });
+  }
+
+  const icons = { KHURAIS: '🏭', HOTEL: '🏨', LICENZA: '✈️' };
+  let html = `<div class="sit-grid">`;
+  for (const [pos, people] of Object.entries(groups)) {
+    html += `<div class="sit-card">
+      <div class="sit-card-header ${pos}">${icons[pos]} ${pos}<span class="sit-card-count">${people.length}</span></div>`;
+    if (!people.length) {
+      html += `<div class="sit-person" style="color:var(--text2);justify-content:center;cursor:default">Nessuno</div>`;
+    }
+    for (const p of sortByRank(people, p => p.name)) {
+      html += `<div class="sit-person" onclick="showPerson(DATA.personnel[${p.idx}].name)">
+        ${p.name}
+        <span class="sit-person-days">ancora ${p.days} gg</span>
+      </div>`;
+    }
+    html += `</div>`;
+  }
+  html += `</div>`;
+  document.getElementById('situazione-content').innerHTML = html;
+}
 
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('sw.js');
