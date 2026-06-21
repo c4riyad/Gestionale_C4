@@ -272,10 +272,11 @@
 
   /* ── Sub-header (back + day nav) ── */
   .sub-header {
-    display: flex;
+    display: grid;
+    grid-template-columns: auto 1fr;
     align-items: center;
-    gap: 16px;
-    padding: 14px 24px;
+    gap: 10px;
+    padding: 10px 16px;
     background: var(--surface);
     border-bottom: 1px solid var(--border);
     position: sticky;
@@ -288,12 +289,13 @@
     border-radius: 8px;
     color: var(--text2);
     font-size: 13px;
-    padding: 6px 14px;
+    padding: 8px 12px;
     cursor: pointer;
-    transition: background .15s;
+    white-space: nowrap;
+    flex-shrink: 0;
+    -webkit-tap-highlight-color: transparent;
   }
-  .back-btn:hover { background: var(--surface2); color: var(--text); }
-  .day-nav { display: flex; align-items: center; gap: 10px; margin-left: auto; }
+  .day-nav { display: flex; align-items: center; gap: 6px; justify-content: flex-end; min-width: 0; }
   .day-nav-btn {
     background: var(--surface2);
     border: 1px solid var(--border);
@@ -302,10 +304,20 @@
     font-size: 14px;
     width: 34px; height: 34px;
     cursor: pointer;
-    transition: background .15s;
+    flex-shrink: 0;
+    -webkit-tap-highlight-color: transparent;
   }
-  .day-nav-btn:hover { background: var(--border); }
-  .day-nav-label { font-size: 14px; font-weight: 600; color: var(--text); min-width: 200px; text-align: center; }
+  .day-nav-label {
+    font-size: clamp(11px, 3.5vw, 14px);
+    font-weight: 600;
+    color: var(--text);
+    text-align: center;
+    min-width: 0;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
 
   /* ── Nav buttons ── */
   .nav-buttons {
@@ -336,8 +348,8 @@
   /* ── Situazione ── */
   .sit-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 20px;
+    grid-template-columns: 1fr;
+    gap: 14px;
     margin-bottom: 32px;
   }
   .sit-card {
@@ -347,7 +359,7 @@
     overflow: hidden;
   }
   .sit-card-header {
-    padding: 14px 18px;
+    padding: 12px 16px;
     font-size: 13px;
     font-weight: 700;
     letter-spacing: .5px;
@@ -360,15 +372,17 @@
   .sit-card-header.LICENZA { background: #0a1a2b; color: var(--licenza-text); border-bottom: 1px solid var(--licenza); }
   .sit-card-count { margin-left: auto; font-size: 20px; font-weight: 800; }
   .sit-person {
-    padding: 10px 18px;
+    padding: 10px 16px;
     font-size: 13px;
     border-bottom: 1px solid var(--border);
     cursor: pointer;
-    transition: background .1s;
+    -webkit-tap-highlight-color: transparent;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 8px;
   }
+  .sit-person-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .sit-person:last-child { border-bottom: none; }
   .sit-person:hover { background: var(--surface2); }
   .sit-person-days { margin-left: auto; font-size: 11px; color: var(--text2); }
@@ -902,8 +916,8 @@ function renderSituazione() {
     }
     for (const p of sortByRank(people, p => p.name)) {
       html += `<div class="sit-person" onclick="showPerson(DATA.personnel[${p.idx}].name)">
-        ${p.name}
-        <span class="sit-person-days">ancora ${p.days} gg</span>
+        <span class="sit-person-name">${p.name}</span>
+        <span class="sit-person-days" style="white-space:nowrap;flex-shrink:0">ancora ${p.days} gg</span>
       </div>`;
     }
     html += `</div>`;
